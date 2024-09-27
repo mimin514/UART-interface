@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BKRA\\dog\\UART2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|D:\\BKRA\\dog\\UART2\\uart2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|solutionrelative:uart2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|D:\\BKRA\\dog\\UART2\\uart2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|solutionrelative:uart2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|d:\\bkra\\dog\\uart2\\uart2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|solutionrelative:uart2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|D:\\BKRA\\dog\\UART2\\uart2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F595A67-99CA-4B17-8CBA-CA26BA1C59B9}|UART2\\dog.csproj|solutionrelative:uart2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\BKRA\\dog\\UART2\\UART2\\Form2.cs",
+              "RelativeDocumentMoniker": "UART2\\Form2.cs",
+              "ToolTip": "D:\\BKRA\\dog\\UART2\\UART2\\Form2.cs",
+              "RelativeToolTip": "UART2\\Form2.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:25:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BKRA\\dog\\UART2\\UART2\\Form1.cs",
+              "RelativeDocumentMoniker": "UART2\\Form1.cs",
+              "ToolTip": "D:\\BKRA\\dog\\UART2\\UART2\\Form1.cs",
+              "RelativeToolTip": "UART2\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:53:38.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\BKRA\\dog\\UART2\\UART2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UART2\\Form1.Designer.cs",
+              "ToolTip": "D:\\BKRA\\dog\\UART2\\UART2\\Form1.Designer.cs",
+              "RelativeToolTip": "UART2\\Form1.Designer.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAowCIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:53:27.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BKRA\\dog\\UART2\\UART2\\Form1.cs",
+              "RelativeDocumentMoniker": "UART2\\Form1.cs",
+              "ToolTip": "D:\\BKRA\\dog\\UART2\\UART2\\Form1.cs [Design]",
+              "RelativeToolTip": "UART2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:53:02.243Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
